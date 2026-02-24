@@ -3,6 +3,6 @@ class OopsBannerApp {
    }
 
    public static void main(String[] var0) {
-      System.out.println("hello");
+      System.out.println("oops");
    }
 }  
